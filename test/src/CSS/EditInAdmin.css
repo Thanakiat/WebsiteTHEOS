@@ -1,0 +1,13 @@
+#bgFromEdit{
+    width: 60%;
+    background-color: rgba(121, 121, 121, 0.5);
+    padding:2% ;
+    border-radius: 20px;
+    
+}
+#editzone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

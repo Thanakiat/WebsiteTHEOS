@@ -1,0 +1,36 @@
+#navbar{
+    background-color:#000000 ;
+    display: flex ;
+    justify-content:space-between ;
+    height: 8vh;
+    min-height: 50px;
+}
+
+#navigateSelect{
+    color: white;
+}
+
+#profilezone{
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    flex-direction: row;
+    display: flex;   
+}
+#profiletext{
+    font-size: small;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 15px;
+    
+}
+
+#buttonLogout{
+    margin-right: 15px;
+    border-radius: 10px;
+    width: 100px;
+    height: 5vh;
+    min-height: 30px;
+    border-color: #FF0404;
+    background-color: #FF0404;
+}

@@ -1,0 +1,24 @@
+/* #imgstyle{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    margin-right: 20px;
+}
+#coldata{
+    display: flex;
+    flex-direction: row;
+}
+#coladdcartbutton{
+    flex: 1;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    
+}
+#addcartbutton{
+    background-color: #000000;
+    padding: 15px;
+    border-radius: 50px ;
+    border-color: #000000;   
+    position: static;
+} */
